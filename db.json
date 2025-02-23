@@ -1,0 +1,23 @@
+{
+  "products": 
+  [{"id":1,"nama":null,"kategori":"KVB"},
+{"id":2,"nama":null,"kategori":"CDC"},
+{"id":3,"nama":null,"kategori":"WKB"},
+{"id":4,"nama":null,"kategori":"ZAZ"},
+{"id":5,"nama":null,"kategori":"ETZ"},
+{"id":6,"nama":null,"kategori":"NYI"},
+{"id":7,"nama":null,"kategori":"ZAG"},
+{"id":8,"nama":null,"kategori":"TTB"},
+{"id":9,"nama":null,"kategori":"GIZ"},
+{"id":10,"nama":null,"kategori":"LBZ"},
+{"id":11,"nama":null,"kategori":"ROT"},
+{"id":12,"nama":null,"kategori":"PNE"},
+{"id":13,"nama":null,"kategori":"NMP"},
+{"id":14,"nama":null,"kategori":"ZEL"},
+{"id":15,"nama":null,"kategori":"SRD"},
+{"id":16,"nama":null,"kategori":"ODO"},
+{"id":17,"nama":null,"kategori":"STG"},
+{"id":18,"nama":null,"kategori":"IUA"},
+{"id":19,"nama":null,"kategori":"SYQ"},
+{"id":20,"nama":null,"kategori":"VNC"}]
+}
